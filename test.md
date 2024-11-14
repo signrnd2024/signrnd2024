@@ -1,12 +1,12 @@
 <?php 
-include_once('./head.php');
+include_once('[.](https://signrnd.com/)/head.php');
 $_SESSION['intro'] = 'play';
 ?>
 
 <div id="intro">
     <div class="video-area">
         <video autoplay muted>
-            <source src="./resource/intro.mp4" type="video/mp4">
+            <source src="[.](https://signrnd.com/)/resource/intro.mp4" type="video/mp4">
         </video>
     </div>
     <div class="ui-area">            
